@@ -7,11 +7,11 @@ Therefore, the dataset contains 12 files. Here a summary of the dataset, per use
 
 ### Court setup
 
-<img src="./img/beach_volleyball_court.png" alt="beach_volleyball_court" style="zoom:25%;" />
+<img src="./img/beach_volleyball_court.png" alt="beach_volleyball_court" width="400" />
 
 ### Sensors setup
 
-<img src="./img/sensors_placement.png" alt="sensor position" style="zoom:25%;" />
+<img src="./img/sensors_placement.png" alt="sensor position" width="200" />
 
 ### Dataset summary
 
